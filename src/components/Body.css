@@ -1,0 +1,18 @@
+@media screen and (min-width:300px) and (max-width:600px){
+    #table {
+        width: 500px;
+    }
+}
+
+@media screen and (min-width:300px) and (max-width:600px){
+    #parentNav {
+        width: 800px;
+    }
+}
+
+@media screen and (min-width:100px) and (max-width:310px){
+    #parentNav {
+        width: 800px;
+    }
+}
+
