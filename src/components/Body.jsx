@@ -26,9 +26,10 @@ const Body = () => {
   },[])
 
   return (
-    <div style={{width:'100%'}} id='table'>
+    <div id='table' style={{width:window.innerWidth}}>
       <Table >
     <thead>
+      
       
 
 
